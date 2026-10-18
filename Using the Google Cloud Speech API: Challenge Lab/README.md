@@ -1,4 +1,4 @@
-##To create an API key, on the Navigation menu (Navigation menu icon) click APIs & services > Credentials.
+##To create an API key, on the Navigation menu (Navigation menu icon) click APIs & services > Credentials.##
 
 1. Click Create credentials and select API key.
 2. In the Create API key side panel that appears, Under APIs that can be accessed using this key, click the dropdown menu (Select APIs).
